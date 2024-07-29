@@ -1,0 +1,6 @@
+@gamocda_HostAddress = http://localhost:5047
+
+GET {{gamocda_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
